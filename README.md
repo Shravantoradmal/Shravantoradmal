@@ -16,7 +16,7 @@ I am a motivated Computer Science student with a strong interest in **software d
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 **Programming Languages**  
 - Java  
