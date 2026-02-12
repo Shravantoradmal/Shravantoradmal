@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Shravan Toradmal
 
-🎓 **B.Tech Computer Science & Engineering Student**  
-💻 **Aspiring Software Developer** | Problem Solver | Tech Enthusiast  
+**B.Tech Computer Science & Engineering Student**  
+**Aspiring Software Developer** | Problem Solver | Tech Enthusiast  
 
 I am a motivated Computer Science student with a strong interest in **software development**, **system design**, and **building scalable applications**. I enjoy transforming ideas into real-world solutions through clean code, logical thinking, and continuous learning.
 
